@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Sayan Singha
 
-<!--
-**SayanDcodeR/SayanDcodeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about **Web Development (MERN Stack)** and **Data Structures & Algorithms**
 
-Here are some ideas to get you started:
+🌱 Currently learning and strengthening my skills in **Backend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Java, C, Python, JavaScript,   
+- **Frontend:** HTML, CSS, React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Core Concepts:** Data Structures & Algorithms
+
+---
+
+### 🔗 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sayan-singha-829925327  
+- 💻 LeetCode: https://leetcode.com/u/sayan2212005/  
+
+---
+
+### ⚡ About Me
+
+I enjoy building scalable full-stack applications and continuously improving my problem-solving skills through DSA and real-world projects.
