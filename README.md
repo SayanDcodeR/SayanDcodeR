@@ -1,4 +1,8 @@
 👋 Hi, I'm Sayan Singha  
-💻 Full-stack developer focused on MERN and DSA; currently learning backend development.  
-⚡ Skills: Java, Python, JavaScript, C | React, Tailwind | Node.js, Express | MongoDB, MySQL  
+🎯 Passionate about **Web Development (MERN Stack)** and **Data Structures & Algorithms**
+### 🛠️ Tech Stack & Skills
+- **Languages:** Java, Python, JavaScript, C  
+- **Frontend:** HTML, CSS, React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL 
 🔗 LinkedIn: https://www.linkedin.com/in/sayan-singha-829925327  
